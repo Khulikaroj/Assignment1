@@ -19,29 +19,34 @@ Quicken Loans offers completely digital process for mortgage lending from loan a
 
 In 2015, Quicken Loans launched Rocket Mortgage which is a mobile application for mortgage lending and mortgage assistance resource. The application helps customers go through mortgage application one step at a time and keep them feel comfortable and casual enough to a borrow six-figure loan. They can customize loan term to suit their financial statement. Customers can also use the application to do research on their available options for the loan and refinancing loan. XXX Add statistic about application downloads or usage.
 
-Key technology of digital mortgage lending provided by Rocket Mortgage is the automated underwriting system. With this technology, customer will be able to know the preapproval result within about half an hour. This stage is when borrowers can lock their mortgage rate, called RateShield. It is critical to seizing the opportunity during surge in volatility in interest rate. 
+Key technology of digital mortgage lending provided by Rocket Mortgage is the automated underwriting system. With this technology, customer will be able to know the preapproval result within about half an hour. This stage is when borrowers can lock their mortgage rate, called RateShield. It is critical to seizing the opportunity during surge in volatility in interest rate. XXX more technical detail on automated underwriting and compared to other lenders. 
 
-Another key advantages of Rocket Mortgage application are how it browse property data from customer's zip code and link all your essential financial background such as bank and investment account from almost all U.S. financial institutions. Besides, it can link employment data from majority of American companies. Moreover, the application is also user friendly. Feeds in the application will help you keep up with to-do list, e-sign documents and monitor the process.
+Another key advantages of Rocket Mortgage application are how it browse property data from customer's zip code and link all your essential financial background such as bank and investment account from almost all U.S. financial institutions. Besides, it can link employment data from majority of American companies. Moreover, the application is also user friendly. Feeds in the application will help you keep up with to-do list, e-sign documents and monitor the process. XXX compared to data linkage of other lenders
 
-
-*Key Technology Branding more than technology. Design innovation.
+XXXMortgage lending has transformed to digital structure even in appraisal process. 
 
 ## Landscape
+
+
 Innovation: Digital mortgage lending. 
-Mortgage lending has transformed to digital structure even in appraisal process. 
+
 Moreover, digitalization trend in mortgage lending also force traditional lenders like banks to play a catch-up by introducing in-house online platform for mortgage application However, market share of bank are still far behind compared to Quicken Loans. 
 
 <DigitalMortgageLendingEcosystem> 
 
 Competitors: Lending Tree, Blend Labs, Roostify, HouseCanary, States Title, and Spruce
+Traditional banks-better fudning. **home equity loans and home equity lines of credit.
+
+competing aspect: fee, service?
+
+do everything in get-a-home business. Rocket Home. key competitor is Zillow.
 
 ## Results 
 Even applying mortgage loan online seems uncomfortable but growing size of customers choose to go online when they are looking for funding for their house.  Younger and male customers apply mortgage loan online more than older or female borrowers. With growing online-based customer and changing in demographic, Quicken Loans successfully took down Wells Fargo as the largest retail mortgage lender in US in term of XXX (#loans or size) in 2018. Share of Quicken Loans in mortgage lending was increased during COVID-19 pandemic as evidence of better infrastructure and less bottleneck in loan origination compared to banks.
 
 <#Loan closure> https://www.google.com/search?sxsrf=ALeKk00UzMKim7vDG5nW6abCQTDH6Cyoew%3A1592968035688&ei=Y8PyXrbPKaKoytMP4fitoA4&q=2018+Home+Mortgage+Disclosure++top+non-bank+lender&oq=2018+Home+Mortgage+Disclosure++top+non-bank+lender&gs_lcp=CgZwc3ktYWIQAzoECCMQJzoGCAAQFhAeOggIIRAWEB0QHjoFCCEQoAE6BwghEAoQoAFQ_m1YxpkBYMWbAWgAcAB4AIABkgGIAc4OkgEEMTcuNJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwj2jJ-vvJnqAhUilHIEHWF8C-QQ4dUDCAw&uact=5
 
-
-Surging of Quicken Loans has changed mortgage market and MBS forever. XX faster origination, less bottleneck, and faster prepayment speed from easier to refinancing loans.  XXXX
+Also, surging of Quicken Loans has changed mortgage market and MBS forever. XX faster origination, less bottleneck, and faster prepayment speed from easier to refinancing loans.  XXXX
 With success in online mortgage lending, Quicken Loans is expect to file IPO in July 2020.This could be one of the largest IPO in 2020.
 Replace big banks as top mortgage lender in XXX
 
@@ -49,7 +54,7 @@ Replace big banks as top mortgage lender in XXX
 **COVID new normal
 https://www.thesimpledollar.com/loans/home/quicken-loans-nonbank-mortgages/
 high valuations despite not reaching profitability
-**home equity loans and home equity lines of credit.
+
 
 ## Addendum
 https://en.wikipedia.org/wiki/Quicken_Loans
