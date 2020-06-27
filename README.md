@@ -1,6 +1,6 @@
 # Rocket Mortgage by Quicken Loans
 
-1[Logo](Logo.png)
+![Logo](Logo.png)
 
 ---
 
