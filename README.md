@@ -11,7 +11,6 @@ Khulika Rojanakanoksak
 ## Overview and Origin
  Quicken Loans is a non-bank mortgage lender based in Detroit, Michigan. The company, originally Rock Financial, was found in 1985 by Dan Gilbert, Ron Berman, Lindsay Gross, and Gary Gilbert. However, online mortgage lending business started when Intuit Inc., then a maker of an online lending platform called QuickenMortgage, bought the company in 1999. Later in 2002, Dan Gilbert bought Quicken Loans back from Intuit by $ 64 million funded from himself and some private investors. 
 
-![Founder](DanGilbert.png)
 
 Unlike traditional banks, Quicken Loans relies on wholesale funding and make loans over online application rather than over office branches. The business model was developed since late 1990s. This help customers out of long and complicated traditional mortgage application process with banks. Loan applications in Quicken Loans can be preapproved within 10 minutes while the process at banks can took days or weeks. Moreover, Quicken Loans was the first non-bank lender who offer mortgage loans across the country back when business was very fragmented by states from different law and regulation in mortgage and housing markets.
 
