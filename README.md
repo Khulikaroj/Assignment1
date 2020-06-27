@@ -25,10 +25,9 @@ Quicken Loans offers completely digital process for mortgage lending. The proces
 
 In 2015, Quicken Loans launched “Rocket Mortgage” which is a mobile application for mortgage lending and mortgage assistance resource. The application helps customers go through mortgage application one step at a time and keep them feel comfortable and casual enough to borrow a six-figure loan. They can customize loan term to suit their financial statement. Prospect customers can also use the application to do research on their available options for the new loan or refinancing loan. 
 
+Key technology of digital mortgage lending provided by Rocket Mortgage is the automated underwriting system (AUS) which utilize machine learning and algorithm to analyse credit profile and make decision on loan approval. With this technology, customer will be able to know the preapproval result within 8 minutes. This stage is when borrowers can lock their mortgage rate, called RateShield. It is critical in seizing the opportunity during fast drop in interest rate. 
 
-Key technology of digital mortgage lending provided by Rocket Mortgage is the automated underwriting system. With this technology, customer will be able to know the preapproval result within 8 minutes. This stage is when borrowers can lock their mortgage rate, called RateShield. It is critical in seizing the opportunity during fast drop in interest rate. XXX more technical detail on automated underwriting and compared to other lenders. 
-
-Another key advantages of Rocket Mortgage application are how it links all your essential financial background such as bank and investment account from almost all U.S. financial institutions. Besides, it can link employment data from majority of American companies. Moreover, the application is also user friendly. Feeds in the application will help you keep up with to-do list, e-sign documents and monitor the loan process. With appraisal waiver in place from last year, the digital mortgage lending market size could have more room to expand.  
+Another key advantages that Rocket Mortgage have over other lenders are how it links all your essential financial background such as bank and investment account from almost all U.S. financial institutions. Besides, it can link employment data from majority of American companies. Moreover, the application is also user friendly. Feeds in the application will help you keep up with to-do list, e-sign documents and monitor the loan process. With appraisal waiver in place from last year, the digital mortgage lending market size could have more room to expand.  
 
 ## Landscape
 Playing field in mortgage and real estate financial services could be broke down into real estate investment and mortgage lending services. Quicken Loans fall into the latter landscape together with Lending Tree, Blend, SoFi, Reali, Roostify, HouseCanary, States Title, Morty, and Spruce. Beside FinTech firms in the same league, major banks are also competing in this digital mortgage lending landscape. Faster and cheaper services are the direction that players in this field are gearing toward. Digitalization trend in mortgage lending also force banks to develop in-house online platform for mortgage application Recently, Quicken Loans jumped into a do-everything-in-getting-a-home business. Rocket Home was just launched and offer a platform for searching and buying house. Key competitor in this field would be Zillow and traditional real estates agents. 
@@ -41,11 +40,12 @@ Even applying mortgage loan online seems uncomfortable but growing size of custo
 
 Not only in mortgage loan market, surging of Quicken Loans has changed Mortgaged-Backed-Securities (MBS) market forever. With faster loan origination process, prepayment speed which is a key risk to MBS investors has been increasing ever since. Moreover, success story in digitalizing mortgage loan market has brought the company to filing its IPO soon in July 2020. Quicken Loans’ IPO could be one of the largest FinTech’s IPO in 2020.
 
-
 ## Recommendations
-**Racial inequality trends & ML in program
-*** self-employed, geek
-**Clound funding
+One main challenge in digital mortgage lending arise from how the approval decision is heavily rely on financial statement the program browse from deposit institutions and employment status from employers. This create burden of prove for those borrowers who are self-employed. With growing Gig economy, this could make Quicken Loans become unable to tap into the growing self-employed customers.
+
+Apart from trend of future customers, change in regulation about racial bias could be another potential challenge soon. Machine learning and artificial intelligence rely heavily on algorithm which is hard to explain the rationales and process behind those decision making. This black-box nature could lead to some problem in the future where racial inequality becomes main concern in financial services. Like in other underwriting process, regulation in some states might require that there be no bias embedded in the process. Lenders should be able to explain how the loan is approved and that decision is irrelevant to race or religion of their customers. 
+
+Finally, with advance in distributed ledger and quantum computing, Cloud funding could be a prospect major competitor to digital mortgage lending.
 
 
 ## Addendum
