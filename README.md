@@ -1,5 +1,6 @@
-# Quicken Loans
-![Logo](QuickenLoansLogo.jpg)
+# Rocket Mortgage by Quicken Loans
+
+1[Logo](Logo.png)
 
 ---
 
@@ -24,7 +25,6 @@ Quicken Loans offers completely digital process for mortgage lending. The proces
 
 In 2015, Quicken Loans launched “Rocket Mortgage” which is a mobile application for mortgage lending and mortgage assistance resource. The application helps customers go through mortgage application one step at a time and keep them feel comfortable and casual enough to borrow a six-figure loan. They can customize loan term to suit their financial statement. Prospect customers can also use the application to do research on their available options for the new loan or refinancing loan. 
 
-![RocketMtge](RocketMortgageLogo.jpg)
 
 Key technology of digital mortgage lending provided by Rocket Mortgage is the automated underwriting system. With this technology, customer will be able to know the preapproval result within 8 minutes. This stage is when borrowers can lock their mortgage rate, called RateShield. It is critical in seizing the opportunity during fast drop in interest rate. XXX more technical detail on automated underwriting and compared to other lenders. 
 
