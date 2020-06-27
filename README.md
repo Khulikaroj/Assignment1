@@ -49,23 +49,23 @@ Finally, with advance in distributed ledger and quantum computing, Cloud funding
 
 
 ## Addendum
-https://en.wikipedia.org/wiki/Quicken_Loans
 
-https://www.economist.com/finance-and-economics/2016/05/26/a-new-foundation
+[Quicken Loans, A New Foundation](https://www.economist.com/finance-and-economics/2016/05/26/a-new-foundation)
 
-https://www.washingtonpost.com/realestate/say-goodbye-to-all-that-paperwork-digital-mortgages-have-arrived/2019/01/16/7a60d538-fcb7-11e8-83c0-b06139e540e5_story.html
+[Say goodbye to all that paperwork: Digital mortgages have arrived](https://www.washingtonpost.com/realestate/say-goodbye-to-all-that-paperwork-digital-mortgages-have-arrived/2019/01/16/7a60d538-fcb7-11e8-83c0-b06139e540e5_story.html)
 
-https://www.metrotimes.com/the-scene/archives/2017/06/22/dan-gilbert-named-richest-person-in-all-of-michigan-because-of-course-he-is
+[Dan Gilbert named richest person in all of Michigan](https://www.metrotimes.com/the-scene/archives/2017/06/22/dan-gilbert-named-richest-person-in-all-of-michigan-because-of-course-he-is)
 
-https://www.freep.com/story/money/2019/05/30/dan-gilbert-top-aides-leadership-team/1269698001/
+[Dan Gilbert has built a leadership team](https://www.freep.com/story/money/2019/05/30/dan-gilbert-top-aides-leadership-team/1269698001/)
 
-https://www.thesimpledollar.com/loans/home/quicken-loans-nonbank-mortgages/
+[Would You Trust Quicken Loans With Your Mortgage?](https://www.thesimpledollar.com/loans/home/quicken-loans-nonbank-mortgages/)
 
-https://www.businessinsider.com/what-a-quicken-loans-ipo-could-mean-for-fintech-valuations-2020-6
+[An IPO for mortgage giant Quicken Loans could make or break fintech valuations](https://www.businessinsider.com/what-a-quicken-loans-ipo-could-mean-for-fintech-valuations-2020-6)
 
-https://www.cnbc.com/2020/04/15/quicken-loans-ceo-jay-farner-on-how-homeowners-can-skip-the-payment.html
+[CEO of mortgage giant Quicken Loans explains how struggling homeowners can ‘skip the payment’](https://www.cnbc.com/2020/04/15/quicken-loans-ceo-jay-farner-on-how-homeowners-can-skip-the-payment.html)
 
-https://www.nerdwallet.com/reviews/mortgages/rocket-mortgage?scrollTo=full-review-scroll-target
+[Rocket Mortgage Review 2020](https://www.nerdwallet.com/reviews/mortgages/rocket-mortgage?scrollTo=full-review-scroll-target)
 
-https://files.consumerfinance.gov/f/documents/cfpb_2019-mortgage-market-activity-trends_report.pdf
+[2019 Mortgage Market Activity and Trends ](https://files.consumerfinance.gov/f/documents/cfpb_2019-mortgage-market-activity-trends_report.pdf)
 
+[How the largest banks are striking back against Rocket Mortgage (Quicken Loans) and other lenders in the $9 trillion US mortgage market](https://www.businessinsider.com/online-mortgage-lending-report)
